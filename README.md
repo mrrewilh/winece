@@ -1,5 +1,5 @@
 # winece
-Cheat Engine for linux
+Cheat Engine for wine
 
 Installs CE on the same prefix of your game (Steam games for now) and modifies the args to start with your game. (which is the reason most of times u cant just run CE directly.) An example;
 
